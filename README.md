@@ -20,7 +20,7 @@ It includes:
 The model is based on the **U-Net architecture**, a popular convolutional neural network designed for biomedical image segmentation.
 
 **Model architecture:**  
-![U-Net Architecture](assests\unet_model.jpg)
+![U-Net Architecture](assests/unet_model.jpg)
 
 ---
 
@@ -39,7 +39,7 @@ The model is based on the **U-Net architecture**, a popular convolutional neural
 
 **Training Metrics:**  
 The training and validation performance metrics are visualized in the following plot:  
-![Training Metrics](assests\train_metrics.png)
+# ![Training Metrics](assests/train_metrics.png)
 
 ---
 
