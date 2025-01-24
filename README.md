@@ -2,7 +2,6 @@
 
 This repository contains a deep learning model for lung segmentation from chest X-ray images. The model is built using the U-Net architecture and trained on a dataset of chest X-ray images with corresponding lung masks.
 
----
 
 ## Dataset
 
@@ -13,16 +12,15 @@ It includes:
 - Chest X-ray images as input.
 - Corresponding lung segmentation masks as ground truth.
 
----
 
-## Model Architecture
+<!-- ## Model Architecture
 
 The model is based on the **U-Net architecture**, a popular convolutional neural network designed for biomedical image segmentation.
 
 **Model architecture:**  
 ![U-Net Architecture](assests/unet_model.jpg)
 
----
+
 
 ## Training Details
 
@@ -41,7 +39,7 @@ The model is based on the **U-Net architecture**, a popular convolutional neural
 The training and validation performance metrics are visualized in the following plot:  
 # ![Training Metrics](assests/train_metrics.png)
 
----
+
 
 ## Results
 
@@ -58,5 +56,5 @@ The final metrics for the trained model are as follows:
   - Jaccard Index: `0.9138`
   - Loss: `0.0920`
 
----
+ -->
 
