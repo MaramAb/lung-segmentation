@@ -1,0 +1,41 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+env/
+venv/
+*.env
+
+# Ignore dataset and large files
+data/
+*.csv
+*.xlsx
+*.json
+
+# Ignore model checkpoints and saved models
+models/
+*.h5
+*.ckpt
+*.pb
+*.sklearn
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+logs/
+*.out
+*.err
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Colab-specific files
+.colab/
